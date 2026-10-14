@@ -1,0 +1,6 @@
+@LAB5_Alonso.Domain_HostAddress = http://localhost:5014
+
+GET {{LAB5_Alonso.Domain_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
